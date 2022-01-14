@@ -1,7 +1,7 @@
 import MovieStars from "components/MovieStars";
 import './styles.css';
 
-type Props ={
+type Props = {
     score: number;
     count: number;
 }
